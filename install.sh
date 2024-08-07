@@ -5,7 +5,7 @@ DEBUG_LOGS=$HOME/.appDebugLogs/debug_logs_tracking
 ADB_URL_LINUX=https://dl.google.com/android/repository/platform-tools-latest-linux.zip
 ADB_URL_MAC=https://dl.google.com/android/repository/platform-tools-latest-darwin.zip
 OS_INFO=`uname`
-GITHUB_REPO="git@github.com:JanioPG/Debug-Logs-Tracking.git"
+GITHUB_REPO="https://github.com/Raccoon-Monks/App-Tracking-Debug-Logs.git"
 
 # COLORS
 GREEN="\033[0;32m"
